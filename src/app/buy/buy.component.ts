@@ -18,7 +18,7 @@ export class BuyComponent implements OnInit, AfterViewInit{
       // Initialize the payment form elements
       
       //TODO: Replace with your sandbox application ID
-      applicationId: "sandbox-sq0idb-1eDJCgCoI4Sb20DE2SmvPQ",
+      applicationId: "",
       inputClass: 'sq-input',
       autoBuild: false,
       // Customize the CSS for SqPaymentForm iframe elements

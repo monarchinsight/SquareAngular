@@ -6,7 +6,8 @@ const app = express();
 const port = process.env.PORT || 3000;
 const squareConnect = require('square-connect');
 
-const accessToken = 'EAAAEFLka9MssW_Ap9_sZlUAkLwYfLSnda6CJX9P5425guYJNtpjVG7NJjNQGwDk';
+//ACCESS TOKEN
+const accessToken = '';
 
 app.use(express.json());
 
